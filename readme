@@ -1,0 +1,6 @@
+Font Manager, Keychain Manager, MoyaEndpointService - examples of managers and services which used across all application.
+EmptyListView, HavWtrTextfield, MainPersonInfoView - examples of custom views which can be used on every screen as custom elements.
+ProfileOptionTableViewWorker, ProfileVCViewModel, ProfileViewController - example of one screen and how the logic goes inside it. We have VM for setting screen and getting info, ViewController for showing info and separate worker for TableView logic.
+MainPageViewController - example of ViewController.
+ShopItemsCollectionViewWorker - example of worker class for additional logic in View Controller.
+NetworkManager - examples of custom Network manager.
